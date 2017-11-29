@@ -72,9 +72,8 @@ header {
 footer {
   background-color: #121212;
   width: 100%;
-  height: 300px;
+  height: auto;
   color: #f0efef;
-  align-content:
 }
 
 /******************************************
@@ -114,9 +113,8 @@ h3{
   font-size: 14px;
   border-radius: 5px;
   border-style: none;
-  margin: 10px;
+  margin: 1px 5px 1px 5px;
   padding: 10px;
-  
 
 }
 #signUpNow {
@@ -145,7 +143,9 @@ h3{
 .benefits {
   background-color: #f0efef;
   width: 100%;
-  height: 500px;
+  height: auto
+  padding: 40px;
+  margin: 0 auto;
 }
 .yellowBoldFont {
   color: #f9e42e;
